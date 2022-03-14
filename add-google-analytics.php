@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Add Google Analytics
-Plugin URI: https://github.com/wpdevtechsupport/add-google-analytics
+Plugin URI: https://github.com/AdebisiFunke/add-google-font-url
 Description: Plugin will add Google Analytics script to your WordPress Website
 Version: 1.0.0
 Author: Funke Adebisi
