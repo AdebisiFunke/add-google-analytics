@@ -5,16 +5,14 @@ Plugin URI: https://github.com/wpdevtechsupport/add-google-analytics
 Description: Plugin will add Google Analytics script to your WordPress Website
 Version: 1.0.0
 Author: Funke Adebisi
-Author URI:https://wpdevtechsupport.com
+Author URI:https://adebisifunke.github.io/funkeadebisi.github.io/
 License: GNU General Public License v2 or later
 Add Google Analytics script to your WordPress Website
 */
 if (!defined('ABSPATH')) {
     exit; // Exit if accessed directly.
 }
-
-
-// replace your-member-id-here with your google analytics member ID
+// replace your-member-id-here with your google analytics MEMBER ID
 add_action("wp_footer", 'add_google_analytics');
 function add_google_analytics()
 { ?>
